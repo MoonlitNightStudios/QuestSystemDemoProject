@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore the plugin. This should not included in the demo itself
+Plugins/QuestSystem/*
