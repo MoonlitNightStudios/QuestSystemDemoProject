@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Ignore the plugin. This should not included in the demo itself
 Plugins/QuestSystem/*
+.vsconfig
